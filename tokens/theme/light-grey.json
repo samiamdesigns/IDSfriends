@@ -48,5 +48,9 @@
       "value": "0px",
       "type": "dimension"
     }
+  },
+  "Slide Author": {
+    "value": "Presented by: John Digweed",
+    "type": "other"
   }
 }
