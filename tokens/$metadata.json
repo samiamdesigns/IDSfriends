@@ -1,15 +1,9 @@
 {
   "tokenSetOrder": [
-    "tailwind_typography",
-    "tailwind_colors_shadows",
-    "tailwind_dimensions",
-    "theme/dimensions",
-    "theme/slides-light",
-    "ui/form_controls",
-    "test",
-    "test_cognosys",
-    "Rem-scale",
-    "Test tokens",
-    "IDS_Slides"
+    "global_tailwind/typography",
+    "global_tailwind/colors_shadows",
+    "global_tailwind/dimensions",
+    "theme/light-grey",
+    "components/slides"
   ]
 }
