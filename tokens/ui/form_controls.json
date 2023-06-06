@@ -1,0 +1,48 @@
+{
+  "form_control_dimensions": {
+    "container_spacing": {
+      "gap": {
+        "value": "{tw_dimensions.fixed.2}",
+        "type": "dimension"
+      },
+      "padding_T-B": {
+        "value": "{tw_dimensions.fixed.2}",
+        "type": "dimension"
+      },
+      "padding_R-L": {
+        "value": "{tw_dimensions.fixed.2}",
+        "type": "dimension"
+      }
+    },
+    "container_border": {
+      "radius": {
+        "value": "{tw_dimensions.fixed.1}",
+        "type": "dimension"
+      },
+      "stroke_width": {
+        "value": "{tw_dimensions.fixed.px}",
+        "type": "dimension"
+      }
+    }
+  },
+  "form_control_typography": {
+    "control_label": {
+      "default": {
+        "value": "label_md",
+        "type": "typography"
+      }
+    }
+  },
+  "form_control_colors": {
+    "control_label": {
+      "default": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "alternate": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  }
+}

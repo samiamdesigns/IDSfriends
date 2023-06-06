@@ -1,0 +1,25 @@
+{
+  "image_border-radius": {
+    "value": "{theme_border-radius.default}",
+    "type": "borderRadius"
+  },
+  "slides_parent": {
+    "value": {
+      "width": "{theme_dimensions.slides-width}",
+      "height": "{theme_dimensions.slides-height}",
+      "fill": "{theme_colors.slide-bg.default}",
+      "borderRadius": "{theme_border-radius.default}"
+    },
+    "type": "composition"
+  },
+  "slide_border-radius": {
+    "value": "{theme_border-radius.default}",
+    "type": "borderRadius"
+  },
+  "slides_border": {
+    "default": {
+      "value": "{theme_border.slides}",
+      "type": "border"
+    }
+  }
+}

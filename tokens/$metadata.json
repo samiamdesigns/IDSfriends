@@ -1,0 +1,15 @@
+{
+  "tokenSetOrder": [
+    "tailwind_typography",
+    "tailwind_colors_shadows",
+    "tailwind_dimensions",
+    "theme/dimensions",
+    "theme/slides-light",
+    "ui/form_controls",
+    "test",
+    "test_cognosys",
+    "Rem-scale",
+    "Test tokens",
+    "IDS_Slides"
+  ]
+}

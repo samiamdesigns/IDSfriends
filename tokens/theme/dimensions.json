@@ -1,0 +1,18 @@
+{
+  "theme_dimensions": {
+    "focus_ring": {
+      "border_radius": {
+        "default": {
+          "value": "{tw_dimensions.fixed.2}",
+          "type": "dimension"
+        }
+      },
+      "stroke_width": {
+        "default": {
+          "value": "0.25rem",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

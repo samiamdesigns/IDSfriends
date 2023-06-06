@@ -1,0 +1,74 @@
+{
+  "tw_lineheight": {
+    "leading-none": {
+      "value": "100%",
+      "type": "lineHeights",
+      "description": "1"
+    },
+    "leading-tight": {
+      "value": "125%",
+      "type": "lineHeights",
+      "description": "1.25"
+    },
+    "leading-snug": {
+      "value": "138%",
+      "type": "lineHeights",
+      "description": "1.375"
+    },
+    "leading-normal": {
+      "value": "150%",
+      "type": "lineHeights",
+      "description": "1.5"
+    },
+    "leading-relaxed": {
+      "value": "163%",
+      "type": "lineHeights",
+      "description": "1.625"
+    },
+    "leading-loose": {
+      "value": "200%",
+      "type": "lineHeights",
+      "description": "2"
+    },
+    "leading-3": {
+      "value": "0.75rem",
+      "type": "lineHeights",
+      "description": "12px"
+    },
+    "leading-4": {
+      "value": "1rem",
+      "type": "lineHeights",
+      "description": "16px"
+    },
+    "leading-5": {
+      "value": "1.25rem",
+      "type": "lineHeights",
+      "description": "20px"
+    },
+    "leading-6": {
+      "value": "1.5rem",
+      "type": "lineHeights",
+      "description": "24px"
+    },
+    "leading-7": {
+      "value": "1.75rem",
+      "type": "lineHeights",
+      "description": "28px"
+    },
+    "leading-8": {
+      "value": "2rem",
+      "type": "lineHeights",
+      "description": "32px"
+    },
+    "leading-9": {
+      "value": "2.25rem",
+      "type": "lineHeights",
+      "description": "36px"
+    },
+    "leading-10": {
+      "value": "2.5rem",
+      "type": "lineHeights",
+      "description": "40px"
+    }
+  }
+}

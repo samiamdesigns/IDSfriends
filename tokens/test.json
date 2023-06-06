@@ -1,0 +1,14 @@
+{
+  "tw_lineheight": {
+    "leading-none": {
+      "value": "100%",
+      "type": "lineHeights",
+      "description": "1"
+    },
+    "leading-4": {
+      "value": "1rem",
+      "type": "lineHeights",
+      "description": "16px"
+    }
+  }
+}

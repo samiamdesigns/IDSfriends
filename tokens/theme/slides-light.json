@@ -1,0 +1,52 @@
+{
+  "theme_border-radius": {
+    "default": {
+      "value": "{tw_dimensions.border-radius.rounded-none}",
+      "type": "dimension"
+    }
+  },
+  "theme_colors": {
+    "slide-bg": {
+      "default": {
+        "value": "{tw_colors.Extended.warm-gray.200}",
+        "type": "color"
+      }
+    },
+    "slide-fg": {
+      "default": {
+        "value": "{tw_colors.Extended.warm-gray.900}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{tw_colors.Extended.warm-gray.700}",
+        "type": "color"
+      }
+    }
+  },
+  "theme_dimensions": {
+    "slides-width": {
+      "value": "1920px",
+      "type": "dimension"
+    },
+    "slides-height": {
+      "value": "1080px",
+      "type": "dimension"
+    }
+  },
+  "theme_border": {
+    "slides": {
+      "value": {
+        "style": "solid",
+        "width": "{theme_border-stroke.slides}",
+        "color": "{theme_colors.slide-bg.default}"
+      },
+      "type": "border"
+    }
+  },
+  "theme_border-stroke": {
+    "slides": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  }
+}
