@@ -17,6 +17,10 @@
         "value": "{tw_colors.extended.warm-gray.900}",
         "type": "color"
       },
+      "accent": {
+        "value": "{tw_colors.extended.warm-gray.900}",
+        "type": "color"
+      },
       "muted": {
         "value": "{tw_colors.extended.warm-gray.800}",
         "type": "color"

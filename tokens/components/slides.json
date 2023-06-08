@@ -54,6 +54,18 @@
         "value": "{theme_colors.slide-fg.muted}",
         "type": "color"
       }
+    },
+    "fg": {
+      "lines": {
+        "value": "{theme_colors.slide-fg.accent}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "default": {
+        "value": "{theme_colors.slide-bg.default}",
+        "type": "color"
+      }
     }
   }
 }
