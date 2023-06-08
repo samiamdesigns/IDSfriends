@@ -8,17 +8,17 @@
   "theme_colors": {
     "slide-bg": {
       "default": {
-        "value": "{tw_colors.Extended.warm-gray.200}",
+        "value": "{tw_colors.extended.warm-gray.200}",
         "type": "color"
       }
     },
     "slide-fg": {
       "default": {
-        "value": "{tw_colors.Extended.warm-gray.900}",
+        "value": "{tw_colors.extended.warm-gray.900}",
         "type": "color"
       },
       "muted": {
-        "value": "{tw_colors.Extended.warm-gray.700}",
+        "value": "{tw_colors.extended.warm-gray.800}",
         "type": "color"
       }
     }
@@ -52,5 +52,23 @@
   "Slide Author": {
     "value": "Presented by: John Digweed",
     "type": "other"
+  },
+  "theme_typography": {
+    "title-default": {
+      "value": "{tw_typography.text-8xl.leading-none.font-medium}",
+      "type": "typography"
+    },
+    "title-large": {
+      "value": "{tw_typography.text-9xl.leading-none.font-semibold}",
+      "type": "typography"
+    },
+    "title-small": {
+      "value": "{tw_typography.text-5xl.leading-none.font-bold}",
+      "type": "typography"
+    },
+    "long-text": {
+      "value": "{tw_typography.text-3xl.leading-9.font-medium}",
+      "type": "typography"
+    }
   }
 }

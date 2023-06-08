@@ -1,6 +1,6 @@
 {
   "tw_colors": {
-    "Default": {
+    "default": {
       "white": {
         "value": "#ffffff",
         "type": "color"
@@ -342,7 +342,7 @@
         }
       }
     },
-    "Extended": {
+    "extended": {
       "white": {
         "value": "#ffffff",
         "type": "color"

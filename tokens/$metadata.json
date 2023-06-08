@@ -3,6 +3,7 @@
     "global_tailwind/typography",
     "global_tailwind/colors_shadows",
     "global_tailwind/dimensions",
+    "global/core_IDS",
     "theme/light-grey",
     "components/slides"
   ]
