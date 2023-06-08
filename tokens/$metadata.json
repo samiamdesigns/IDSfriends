@@ -5,6 +5,7 @@
     "global_tailwind/dimensions",
     "global/core_IDS",
     "theme/light-grey",
+    "theme/grey-accent",
     "components/slides"
   ]
 }

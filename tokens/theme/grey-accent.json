@@ -1,0 +1,78 @@
+{
+  "theme_border-radius": {
+    "default": {
+      "value": "{tw_dimensions.border-radius.rounded-none}",
+      "type": "dimension"
+    }
+  },
+  "theme_colors": {
+    "slide-bg": {
+      "default": {
+        "value": "{tw_colors.extended.blue-gray.100}",
+        "type": "color"
+      }
+    },
+    "slide-fg": {
+      "default": {
+        "value": "{tw_colors.extended.blue-gray.900}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{tw_colors.default.blue.700}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{tw_colors.default.blue.900}",
+        "type": "color"
+      }
+    }
+  },
+  "theme_dimensions": {
+    "slides-width": {
+      "value": "1920px",
+      "type": "dimension"
+    },
+    "slides-height": {
+      "value": "1080px",
+      "type": "dimension"
+    }
+  },
+  "theme_border": {
+    "slides": {
+      "value": {
+        "style": "solid",
+        "width": "{theme_border-stroke.slides}",
+        "color": "{theme_colors.slide-bg.default}"
+      },
+      "type": "border"
+    }
+  },
+  "theme_border-stroke": {
+    "slides": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "Slide Author": {
+    "value": "Presented by: John Digweed",
+    "type": "other"
+  },
+  "theme_typography": {
+    "title-default": {
+      "value": "{tw_typography.text-8xl.leading-none.font-medium}",
+      "type": "typography"
+    },
+    "title-large": {
+      "value": "{tw_typography.text-9xl.leading-none.font-semibold}",
+      "type": "typography"
+    },
+    "title-small": {
+      "value": "{tw_typography.text-5xl.leading-none.font-bold}",
+      "type": "typography"
+    },
+    "long-text": {
+      "value": "{tw_typography.text-3xl.leading-9.font-medium}",
+      "type": "typography"
+    }
+  }
+}
